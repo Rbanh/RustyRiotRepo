@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+RustyRiot/Saved/Logs/RustyRiot.log
+*.log
+*.log
+RustyRiot/Intermediate/CachedAssetRegistry.bin
+RustyRiot/Saved/Config/Windows/EditorPerProjectUserSettings.ini
